@@ -1,0 +1,31 @@
+body {
+	background-image: url("https://images.unsplash.com/photo-1526925539332-aa3b66e35444?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=7d57c801c843337d87cd712c371a54fd&auto=format&fit=crop&w=1001&q=80");
+   	background-position: center center;  /*back ground centered */
+   	background-repeat: no-repeat;	/*image dosent tile */
+   	background-attachment: fixed;  /*image fixed so it dont move */
+   	background-size: cover;			/*rescale image size based on container */
+   	background-color: #464646;
+   	font-family: 'Oswald', sans-serif;
+   
+}
+
+.jumbotron {
+    background: rgba(216, 219, 191, 0.2);
+    padding-top: 0;
+    padding-bottom: 2%;
+    padding-right: 0;
+   /* margin-right: 20%;*/
+
+
+
+}
+
+h1{
+	color:white;
+}
+p {
+	
+	font-size: 20px;
+	font-weight: 700;
+	color:white;
+}
